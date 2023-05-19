@@ -1,0 +1,22 @@
+article {
+  box-sizing: border-box;
+
+  width: 15vw;
+  height: 80vh;
+  display: flex;
+
+  justify-content: space-around;
+}
+.header {
+  width: 100%;
+  text-align: center;
+}
+section {
+  font-size: 1em;
+  text-transform: uppercase;
+  color: var(--textColor);
+}
+.ItemImg {
+  width: 250px;
+  height: 300px;
+}
